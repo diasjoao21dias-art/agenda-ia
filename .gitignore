@@ -8,3 +8,13 @@ dist-ssr
 .DS_Store
 *.log
 npm-debug.log*
+
+# Replit
+.replit
+replit.nix
+.cache
+.config
+.upm
+.local
+attached_assets
+extracted_site
